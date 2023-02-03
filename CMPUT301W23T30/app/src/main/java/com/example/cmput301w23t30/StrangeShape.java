@@ -6,5 +6,5 @@ import android.graphics.drawable.shapes.Shape;
 
 public class StrangeShape {
 
-    private String color = "starnge Color";
+    private String color = "strange Color";
 }
