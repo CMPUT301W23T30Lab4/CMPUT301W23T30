@@ -5,7 +5,8 @@ import android.graphics.Paint;
 import android.graphics.drawable.shapes.Shape;
 
 public class Pentagon extends Shape {
-
+    private String conspiracy;
+    private String aliens;
     @Override
     public void draw(Canvas canvas, Paint paint) {
 
