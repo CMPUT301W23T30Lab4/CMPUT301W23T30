@@ -1,5 +1,5 @@
 public abstract class Shape {
     private int x;
     private int y;
-    String color = "lilac";
+    String color = "lilac-green";
 }
