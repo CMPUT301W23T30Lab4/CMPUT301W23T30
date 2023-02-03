@@ -1,7 +1,7 @@
 package com.example.cmput301w23t30;
 
 public class Hexagon extends Shape {
-    private int sideLength;
+    public int sideLength;
 
     public Hexagon(int x, int y, int sideLength) {
         super(x, y);
