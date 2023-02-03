@@ -4,13 +4,7 @@ import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.graphics.drawable.shapes.Shape;
 
-public class StrangeShape extends Shape {
-    public StrangeShape(int X, int Y){
-        super(int X, int Y);
-    }
+public class StrangeShape {
 
-    @Override
-    public void draw(Canvas canvas, Paint paint) {
-
-    }
+    private String color = "starnge Color";
 }
